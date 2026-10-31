@@ -100,15 +100,6 @@ This project demonstrates how retail data can be transformed into structured ana
 
 Database configuration and data source settings may need to be adjusted when running the project on another computer.
 
-## Disclaimer
-
-NovaMart is a portfolio project using synthetic data. It is not affiliated with any real retail business.
-
----
-
-**Project:** NovaMart — Retail Supply Chain Analytics  
-**Tools:** Python | MySQL | SQL | Power BI | DAX
-
 ## Dashboard Previews
 
 ### 1. Executive Overview
@@ -122,3 +113,13 @@ NovaMart is a portfolio project using synthetic data. It is not affiliated with 
 ### 3. Customer & Product Insights
 
 ![Customer & Product Insights](Images/Customer_Product_Insights.png)
+
+
+## Disclaimer
+
+NovaMart is a portfolio project using synthetic data. It is not affiliated with any real retail business.
+
+---
+
+**Project:** NovaMart — Retail Supply Chain Analytics  
+**Tools:** Python | MySQL | SQL | Power BI | DAX
