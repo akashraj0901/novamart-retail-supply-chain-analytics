@@ -108,3 +108,17 @@ NovaMart is a portfolio project using synthetic data. It is not affiliated with 
 
 **Project:** NovaMart — Retail Supply Chain Analytics  
 **Tools:** Python | MySQL | SQL | Power BI | DAX
+
+## Dashboard Previews
+
+### 1. Executive Overview
+
+![Executive Overview](Images/Executive_Overview.png)
+
+### 2. Supply Chain Operations
+
+![Supply Chain Operations](Images/Supply_Chain_Operations.png)
+
+### 3. Customer & Product Insights
+
+![Customer & Product Insights](Images/Customer_Product_Insights.png)
